@@ -1,5 +1,4 @@
 ---
-title: A maker community and maker space for all creatives in the North West UK
 layout: default
 ---
 
