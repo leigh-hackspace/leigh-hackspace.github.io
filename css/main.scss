@@ -1,13 +1,12 @@
 ---
 
 ---
-
 @charset "utf-8";
 @import "variables";
 @import "normalize";
-@import "bourbon";
+@import "bourbon/bourbon";
 @import "base/base";
-@import "neat";
+@import "neat/neat";
 
 .img {
   max-width: 100%;
