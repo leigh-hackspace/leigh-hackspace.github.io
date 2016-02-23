@@ -14,7 +14,7 @@ Change into the cloned repo:
 
 Bundle all the things:
 
-`bundle exec install`
+`bundle exec bundle install`
 
 Start the server:
 
