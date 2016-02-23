@@ -1,0 +1,11 @@
+<div class="social-icons">
+  <ul>
+    {% for social_icon in site.data.social_icons %}
+      <li>
+        <a href="{{social_icon.link}}", target="_blank">
+          <i class="fa {{social_icon.icon}} fa-3x"></i>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

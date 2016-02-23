@@ -1,0 +1,18 @@
+---
+title: supporters
+layout: default
+---
+
+<h1>SUPPORTERS</h1>
+
+Thanks to the following groups, companies and organisations who have donated to Leigh Hackspace.
+
+In no particular order...
+
+{% for supporter in site.data.supporters %}
+  <div class="supporters-panel">
+    <img src="/images/{{supporter.logo}}" alt="Supporter Logo" %>
+    <p>{{ supporter.description }}</p>
+    <hr />
+  </div>
+{% endfor %}

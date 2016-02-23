@@ -1,0 +1,9 @@
+<nav class="main-nav">
+  <ul>
+    {% for page in site.data.pages %}
+      <li>
+        <a href="{{ page.link }}">{{ page.name }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
