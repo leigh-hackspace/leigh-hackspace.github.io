@@ -17,3 +17,5 @@ gem 'kramdown', '~> 1.9'
 
 # highlighting
 gem 'rouge', '~> 1.10', '>= 1.10.1'
+
+gem 'jekyll-sitemap', '~> 0.10.0'
