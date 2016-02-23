@@ -7,7 +7,8 @@ layout: default
 
 >Leigh Hackspace is proudly a non-profit organisation. We rely on contributions from our members to pay the rent on the communal makerspace, buy equipment which we can all share, and get essential services like broadband internet and electricity!
 
-## Full Membership
+
+## <a id="full"></a>Full Membership
 
 To become a Member of Leigh Hackspace, use the below GoCardless links. All of these give you the same Full Member access to the Hackspace. Giving us more means we can develop faster, buying better equipment for everyone to use.
 

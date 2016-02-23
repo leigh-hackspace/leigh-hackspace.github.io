@@ -19,7 +19,7 @@ If you want to get involved here are some things you can do:
 
 - Join the Hackspace [Facebook Group](bit.ly/leighhack) – this is where there you can keep up to date with activity and opening times at the Hackspace.
 
-- Set up regular [membership](/membership/#full) payment.
+- Set up regular [membership](/membership#full) payment.
 
 - Join the Leigh Hackspace Discourse Forum for more in-depth information and conversations about Hackspace planning and future development.
 
