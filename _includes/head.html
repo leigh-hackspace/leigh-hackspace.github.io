@@ -15,6 +15,6 @@
   <meta property="og:description" content="{% include description %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="leigh hackspace">
-  <meta property="og:image" content="/images/logo.png">
+  <meta property="og:image" content={{ "/images/logo.png" | prepend: site.url }}>
   <meta property="og:locale" content="en_GB">
 </head>
