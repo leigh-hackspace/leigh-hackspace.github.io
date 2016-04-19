@@ -16,7 +16,7 @@ We’re always looking for more members to join our awesome social making commun
 
 If you want to get involved here are some things you can do:
 
-- Join the Hackspace [Facebook Group](bit.ly/leighhack) – this is where there you can keep up to date with activity and opening times at the Hackspace.
+- Join the Hackspace [Facebook Group](http://bit.ly/leighhack) – this is where there you can keep up to date with activity and opening times at the Hackspace.
 
 - Set up regular [membership](/membership#full) payment.
 
