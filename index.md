@@ -25,4 +25,4 @@ If you want to get involved here are some things you can do:
 
 - Follow [@leigh_hackspace](https://twitter.com/leigh_hackspace) on Twitter.
 
-- And don't forget to come along to the Hackspace and get involved!
+- And don't forget to come along to the Hackspace and get involved!!
